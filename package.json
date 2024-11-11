@@ -1,17 +1,17 @@
 
 {
-  "name": "Baraka-MD",
+  "name": "SHAKIRA-MD",
   "version": "10.8.1",
-  "description": "Baraka-MD latest multi device whatsapp bot",
+  "description": "SHAKIRA-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Baraka-MD",
-    "stop": "pm2 stop Baraka-MD",
-    "restart": "pm2 restart Baraka-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHAKIRA-MD",
+    "stop": "pm2 stop SHAKIRA-MD",
+    "restart": "pm2 restart SHAKIRA-MD"
   },
-  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Baraka Bega",
+  "keywords": ["SHAKIRA-Md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "basanzietech",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
